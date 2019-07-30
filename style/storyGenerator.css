@@ -1,0 +1,21 @@
+#body {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+input :nth-child(1) {
+    height: 50px;
+}
+
+#cont {
+    border: 1px solid rgb(235, 223, 55);
+    background-color: rgb(235, 223, 55);
+    width: 400px;
+    margin-top: 60px;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+button {
+    padding: 5px;
+}

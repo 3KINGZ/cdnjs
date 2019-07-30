@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+#container {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(161, 243, 216);
+    border-radius: 8px;
+}
+
+#lowhigh {
+    margin: 0px auto;
+}
+
+#lowhigh {
+    width: 16em;
+    height: 2em;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+}

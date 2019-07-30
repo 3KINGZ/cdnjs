@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style/storyGenerator.css">
+</head>
+
+<body>
+    <div id="body">
+        <h1>Story Generator</h1>
+        <p>Enter custom name:<input type="text" id="name"></p>
+        <p>US:<input type="radio" name="degree" value="US" checked>
+            UK:<input type="radio" name="degree" value="UK" id="uk"></p>
+        <button onclick="result()">Generate random story</button>
+        <div id="cont">
+            <p id="content"></p>
+        </div>
+    </div>
+    <script src="script/storyGenerator.js"></script>
+</body>
+
+</html>
