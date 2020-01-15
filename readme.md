@@ -1,3 +1,2 @@
 # Mdn 
-JavaScript Exercises
-these are just JavaScript exercises in the Mdn Network
+Solved JavaScript Exercises found on Mdn Network
